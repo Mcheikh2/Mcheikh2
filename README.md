@@ -54,15 +54,16 @@ Here are some of my notable projects:
 2. **[Cool App](https://github.com/Mcheikh2/cool-app)**: A cool app that everyone loves. 🌟
 3. **[Super Tool](https://github.com/Mcheikh2/super-tool)**: A super tool that solves super problems. 🛠️
 
-## 📊 GitHub Stats
-
-![Mcheikh2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mcheikh2&show_icons=true&theme=radical)
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Personal Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-website.com)
+[![Personal Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://mohamedamine.dev)
+[![Tech Lab](https://img.shields.io/badge/Tech%20Lab-339933?style=for-the-badge&logo=lab&logoColor=white)](https://maclabs.io)
+
+## 📊 GitHub Stats
+
+![Mcheikh2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mcheikh2&show_icons=true&theme=radical)
 
 ## 🛠️ Recent Activity
 
