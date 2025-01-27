@@ -6,7 +6,7 @@
 
 I'm a passionate software developer with a keen interest in developing innovative solutions. I love coding, learning new technologies, and collaborating with others to create impactful projects.
 
-- 🌱 I’m currently learning **<insert new technology or language you're learning>**
+
 - 💬 Ask me about **Java, TypeScript, JavaScript, and web development**
 - 📫 How to reach me: **<your email or preferred contact method>**
 - ⚡ Fun fact: **I can code in my sleep! 💤**
