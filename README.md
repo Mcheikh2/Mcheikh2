@@ -1,5 +1,13 @@
-<p align="center">
-  <a href="https://mohamedamine.dev">
-    <img src="./download.png" alt="Mohamed Amine Cheikh — Senior Full-Stack Software Engineer" width="100%" />
-  </a>
-</p>
+# Mohamed Amine Cheikh
+
+Senior Full-Stack Software Engineer
+
+Building scalable web apps, SaaS products, APIs, automation systems, and cloud solutions.
+
+
+### Links
+[Portfolio](https://mohamedamine.dev) · [GitHub](https://github.com/Mcheikh2)
+
+---
+
+> README longer than the codebase? Couldn't be me.
